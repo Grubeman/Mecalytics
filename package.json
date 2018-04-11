@@ -9,7 +9,7 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "gpublish":"ng build --prod --base-href='https://grubeman.github.io/Mecalytics' && angular-cli-ghpages"
+    "gpublish":"ng build --prod --base-href \"https://grubeman.github.io/Mecalytics\" && angular-cli-ghpages"
   },
   "private": true,
   "dependencies": {
